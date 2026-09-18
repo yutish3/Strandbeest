@@ -15,5 +15,22 @@ firstly i made rest of the pieces then then i added in joints then i made a new 
 <img width="1240" height="866" alt="image" src="https://github.com/user-attachments/assets/7dcc9e02-0aa8-40e6-933f-2168f99f9c0e" />
 <img width="1208" height="748" alt="image" src="https://github.com/user-attachments/assets/d63cf605-1dee-4bfd-80a2-c6d5ee753cda" />
 
+# Journal 3 ( 0.5 HOURS ) :- build the holding box
+<img width="1552" height="956" alt="image" src="https://github.com/user-attachments/assets/50dcbe73-e843-42c2-9f3d-230b0259b50f" />
+
+
+https://github.com/user-attachments/assets/97e92f4d-d31e-4fd6-a7b1-e31459f7e244
+
+now this was just a test build as its my first time working with gears and here is everything i wanna change for the next proper build i will be making
+
+1) fix gear ratios
+
+2) using constrains instead of joints
+
+3) making sketch of whole thing in start
+
+4) making a better leg
+
+5) make the holder a lot better to hold a proper motor and battery 
 
 
