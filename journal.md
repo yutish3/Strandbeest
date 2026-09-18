@@ -8,4 +8,12 @@ so how its gonna go is a motor will spin the middle gear (ill make a triangular 
 i made the parts that connect to each other and most of my time was spent setting up joints for them i had to deleate them once and redo the joints to make the whole moving animation there is still one piece missing which i will have to add now
 <img width="1698" height="902" alt="image" src="https://github.com/user-attachments/assets/8bbed04c-f4fc-4322-9efb-237530e62297" />
 
+# Journal 3 ( 2.5 HOURS ) :- gear system and joints working
+firstly i made rest of the pieces then then i added in joints then i made a new file where i dragged and dropped the files 5 times and thhen added in more joints so they will all spin at the same time and it is so frustrating to work with it 
+
+<img width="2536" height="1214" alt="image" src="https://github.com/user-attachments/assets/5d7a1423-dab1-4e24-8334-b7065c5440c5" />
+<img width="1240" height="866" alt="image" src="https://github.com/user-attachments/assets/7dcc9e02-0aa8-40e6-933f-2168f99f9c0e" />
+<img width="1208" height="748" alt="image" src="https://github.com/user-attachments/assets/d63cf605-1dee-4bfd-80a2-c6d5ee753cda" />
+
+
 
